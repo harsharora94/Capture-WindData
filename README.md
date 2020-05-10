@@ -1,5 +1,5 @@
-# Capture.WindData for BRANTFORD AIRPORT, Canada.
-Real-time capturing of parameters, System Time, Result Time, Wind Speed and Wind Direction from a Web URL.
+# Capture.WindData
+Real-time capturing of parameters, System Time, Result Time, Wind Speed and Wind Direction from a Web URL for BRANTFORD AIRPORT, Canada.
 
 ## Input:
 1. The data is found at the following URL in XML format  http://dd.weather.gc.ca/observations/swob-ml/latest/CTBF-AUTO-minute-swob.xml
