@@ -1,0 +1,6 @@
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.exe.config
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.exe
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.pdb
+D:\Github_Repositories\SolarShip.WindData\obj\Debug\SolarShip.WindData.csprojResolveAssemblyReference.cache
+D:\Github_Repositories\SolarShip.WindData\obj\Debug\SolarShip.WindData.exe
+D:\Github_Repositories\SolarShip.WindData\obj\Debug\SolarShip.WindData.pdb

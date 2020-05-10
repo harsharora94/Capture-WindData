@@ -1,0 +1,8 @@
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.exe.config
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.exe
+D:\Github_Repositories\SolarShip.WindData\bin\Debug\SolarShip.WindData.pdb
+D:\Github_Repositories\SolarShip.WindData\obj\Debug\SolarShip.WindData.exe
+D:\Github_Repositories\SolarShip.WindData\obj\Debug\SolarShip.WindData.pdb
+D:\Github_Repositories\Project.Capture.WindData\bin\Debug\SolarShip.WindData.exe.config
+D:\Github_Repositories\Project.Capture.WindData\obj\Debug\SolarShip.WindData.exe
+D:\Github_Repositories\Project.Capture.WindData\obj\Debug\SolarShip.WindData.pdb
